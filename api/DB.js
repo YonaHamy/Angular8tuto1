@@ -1,3 +1,3 @@
 module.exports = {
-    DB: 'mongodb://localhost:27017/ng8crud'
+    DB: 'mongodb+srv://yona:test@cluster0-gvjcl.mongodb.net/test?retryWrites=true&w=majority'
   };
